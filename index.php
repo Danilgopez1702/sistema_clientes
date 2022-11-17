@@ -14,7 +14,7 @@
       </div>
     </div>
     <div class="carousel-item">
-        <img src="img/lap_velocidad.webp" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
+        <img src="img/lap_velocidad.png" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
       </div>
     </div>
     <div class="carousel-item">
