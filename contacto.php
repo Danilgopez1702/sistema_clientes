@@ -23,13 +23,13 @@
           <div class="col-lg-4">
 
             <div class="info">
-              <h3>Get in touch</h3>
-              <p>Et id eius voluptates atque nihil voluptatem enim in tempore minima sit ad mollitia commodi minus.</p>
+              <h3>¡Contáctanos!</h3>
+              <p>Llena el siguiente formulario y en breve nos comunicaremos contigo.</p>
 
               <div class="info-item d-flex">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
-                  <h4>Location:</h4>
+                  <h4>Ubicacion:</h4>
                   <p>A108 Adam Street, New York, NY 535022</p>
                 </div>
               </div><!-- End Info Item -->
