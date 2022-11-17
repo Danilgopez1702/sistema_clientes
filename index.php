@@ -10,7 +10,7 @@
         <img src="img/5G.png" class="rounded mx-auto d-block" >
       </div>
       <div class="carousel-item">
-        <img src="img/casa_fibra.jpeg" class="rounded mx-auto d-block" >
+        <img src="img/casa_fibra.png" class="rounded mx-auto d-block" >
       </div>
     </div>
     <div class="carousel-item">
@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="carousel-item">
-        <img src="img/velocidad_in.jpeg" class="rounded mx-auto d-block">
+        <img src="img/velocidad_in.png" class="rounded mx-auto d-block">
       </div>
     </div>
   </div><!-- End Carousel Item -->
