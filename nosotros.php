@@ -6,8 +6,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>About Us</h2>
-          <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+          <h2>Sobre Nosotros</h2>
+          <p></p>
         </div>
 
         <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
@@ -19,94 +19,61 @@
           </div>
 
           <div class="col-lg-7">
-            <h3 class="pt-0 pt-lg-5">Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
+            <h3 class="pt-0 pt-lg-5">¿Quiénes somos?</h3>
 
             <!-- Tabs -->
             <ul class="nav nav-pills mb-3">
-              <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a></li>
+              <li></li>
             </ul><!-- End Tabs -->
 
             <!-- Tab Content -->
             <div class="tab-content">
 
-              <div class="tab-pane fade show active" id="tab1">
-
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+              <div class="tab-pane fade show active" >
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                <p>Somos una empresa de expertos en el ramo de las telecomunicaciones y especializado en llevar a los hogares servicio de internet de la mas alta calidad.</p>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                <p>Al mejor precio del mercado, con la garantia de que con DigitalNet sí recibes la velocidad que contratas tanto de subida como de bajada.</p>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                <p>El internet hoy en dia lo consideramos una necesidad y satisfacemos esa necesidad, donde ninguna otra compañía tiene el interés de cubrir.</p>
                 </div>
-                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                <p>Como localidades, municipios, fraccionamientos nuevos, y todo lugar donde requieran internet podemos llegar.</p>
+                </div>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                <p>Las tareas de los niños, las redes sociales, el acceso a un sin fin de informacion, hace del internet una necesidad.</p>
+                </div>
+
 
               </div><!-- End Tab 1 Content -->
 
-              <div class="tab-pane fade show" id="tab2">
-
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
-                </div>
-                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
-
-              </div><!-- End Tab 2 Content -->
-
-              <div class="tab-pane fade show" id="tab3">
-
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
-                </div>
-                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
-
-              </div><!-- End Tab 3 Content -->
-
             </div>
+            
 
           </div>
+          <div class="row">
+            <div class="col-lg-8">
+            <br><br>
+              <div class="info">
 
+                <h5>Archivos Descargables</h5>
+                <a target="_blank" href="archivos/cartadederechosdelosusuariosdeserviciosdetelecomunicaciones2022.pdf">Carta de Derechos de los Usuarios de Servicios de Telecomunicaciones 2022.</a>
+
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>

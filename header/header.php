@@ -40,7 +40,7 @@
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
-         <img src="img/logo_ok.png" style=" height:250px; width: 300px;"> 
+         <img src="img/logo_footer.png" style=" height:300px; width:200px;"> 
       </a>
 
       <nav id="navbar" class="navbar">
@@ -55,8 +55,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
-
-      <a class="btn-getstarted scrollto" href="index.html#about">Get Started</a>
+      <a class="btn-getstarted scrollto" href="#"></a>
 
     </div>
   </header><!-- End Header -->

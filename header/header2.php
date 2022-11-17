@@ -39,7 +39,7 @@
       </div>
 
       <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4><img src="assets/img/logo_footer.png"></h4>
+        <h4><img src="img/logo_footer.png"></h4>
         <p>DigitalNet es una empresa especializada en proveer servicios de Internet a localidades donde no llega ninguna otra compañía. Orillas de la ciudad de Aguascalientes (nivel medio bajo - medio alto), comunidades rurales y municipios.</p>
         
 
