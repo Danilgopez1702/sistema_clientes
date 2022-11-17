@@ -35,40 +35,30 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="" class="stretched-link">Tecnología de vanguardia</a></h4>
+              <p>Contamos con antenas y torres de última generación.</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="" class="stretched-link">Todos tus dispositivos Conectados</a></h4>
+              <p>Siempre tendrás señal en tu domicilio o negocio.</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
             <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="bi bi-headset icon"></i></div>
+              <h4><a href="" class="stretched-link">Atención personalizada</a></h4>
+              <p>Atención personalizada para que nunca te falte nuestro servicio.</p>
             </div>
           </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-broadcast icon"></i></div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
         </div>
-
       </div>
     </section><!-- End Featured Services Section -->
 
@@ -79,14 +69,14 @@
         <div class="row g-5">
 
           <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
-            <h3>Alias sunt quas <em>Cupiditate</em> oluptas hic minima</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <a class="cta-btn align-self-start" href="#">Call To Action</a>
+            <h3>¿Por qué escoger DigitalNet?</h3>
+            <p>El Internet lo consideramos una necesidad y satisfacemos esa necesidad a localidades donde ninguna otra compañía tiene el interés de cubrir. Las tareas de los niños, las redes sociales, el acceso a sinfín de información, hace del Internet una necesidad.</p>
+            <p>La manera de operar es instalando torres en puntos estratégicos que pueden proveer señal de Internet hasta 3km a la redonda. En los domicilios donde se contrata el servicio, se instala una antena receptora, lo que provee la señal.</p>
           </div>
 
           <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
             <div class="img">
-              <img src="assets/img/cta.jpg" alt="" class="img-fluid">
+              <img src="img/businesswoman.png" alt="" style="height:300px; width: 300px;" class="img-fluid">
             </div>
           </div>
 
@@ -95,33 +85,7 @@
       </div>
     </section><!-- End Call To Action Section -->
 
-    <!-- ======= On Focus Section ======= -->
-    <section id="onfocus" class="onfocus">
-      <div class="container-fluid p-0" data-aos="fade-up">
-
-        <div class="row g-0">
-          <div class="col-lg-6 video-play position-relative">
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6">
-            <div class="content d-flex flex-column justify-content-center h-100">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
-              </p>
-              <ul>
-                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-              </ul>
-              <a href="#" class="read-more align-self-start"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End On Focus Section -->
+    
 
   </main><!-- End #main -->
 
