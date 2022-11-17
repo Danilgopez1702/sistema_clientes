@@ -7,18 +7,18 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/5G.png" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
+        <img src="img/5G.png" class="rounded mx-auto d-block" >
       </div>
       <div class="carousel-item">
-        <img src="img/casa_fibra.jpeg" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
+        <img src="img/casa_fibra.jpeg" class="rounded mx-auto d-block" >
       </div>
     </div>
     <div class="carousel-item">
-        <img src="img/lap_velocidad.png" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
+        <img src="img/lap_velocidad.png" class="rounded mx-auto d-block">
       </div>
     </div>
     <div class="carousel-item">
-        <img src="img/velocidad_in.jpeg" class="rounded mx-auto d-block" style="height:450px; width: 400px;">
+        <img src="img/velocidad_in.jpeg" class="rounded mx-auto d-block">
       </div>
     </div>
   </div><!-- End Carousel Item -->
