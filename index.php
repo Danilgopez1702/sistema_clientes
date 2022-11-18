@@ -7,6 +7,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
+<<<<<<< Updated upstream
         <img src="img/5g.png" class="rounded mx-auto d-block" style= "height: 450px; width:400px;"  >
       </div>
       <div class="carousel-item">
@@ -19,6 +20,15 @@
     </div>
     <div class="carousel-item">
         <img src="img/velocidad_in.png" class="rounded mx-auto d-block" style= "height: 450px; width:400px;" >
+=======
+        <img src="img/carrucel1.jpg" class="rounded mx-auto d-block" style="height:500px; width: 600px;" >
+      </div>
+      <div class="carousel-item">
+        <img src="img/carrucel2.jpg" class="rounded mx-auto d-block" style="height:500px; width: 500px;" >
+      </div>
+      <div class="carousel-item">
+        <img src="img/carrucel3.jpg" class="rounded mx-auto d-block" style="height:500px; width: 600px;" >
+>>>>>>> Stashed changes
       </div>
     </div>
   </div><!-- End Carousel Item -->
