@@ -49,6 +49,7 @@
           <li><a class="nav-link scrollto" href="./index.php">Inicio</a></li>
           <li><a class="nav-link scrollto" href="./nosotros.php">Sobre Nosotros</a></li>
           <li><a class="nav-link scrollto" href="./paquetes.php">Paquetes</a></li>
+          <li><a class="nav-link scrollto" href="./tramites.php">Tramites</a></li>
           <li><a class="nav-link scrollto" href="./soporte.php">Soporte</a></li>
           <li><a class="nav-link scrollto" href="./contacto.php">Contacto</a></li>
           
