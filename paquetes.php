@@ -8,7 +8,7 @@
 
         <div class="section-header">
           <h2>PAQUETES</h2>
-          <p>Buenas tardes, le presentamos los paquetes que se manejan y esto depende de la zona en la que este habitando Para saber mas informacion <a  href="contacto.php">contactenos </a>  </p>
+          <p>Les presentamos los paquetes que se manejan y esto depende de la zona en la que este habitando Para saber mas informacion <a  href="contacto.php">contactenos </a>  </p>
         </div>
 
         <div class="row gy-4">
